@@ -1,16 +1,30 @@
-## Hi there 👋
+# **Olá, eu sou Hebert Nascimento 👋**
 
-<!--
-**HebertNascimento/HebertNascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🎓 Estudante de Engenharia de Software
+#### 💻 Em transição de carreira para a área de tecnologia 
+#### 🚀 Focado em Desenvolvimento Front-End e evolução contínua
+#### Tenho experiência prática com suporte técnico, manutenção de computadores, infraestrutura audiovisual e atendimento ao cliente. Atualmente estou aprofundando meus conhecimentos em HTML, CSS, JavaScript, Git e GitHub, desenvolvendo projetos e construindo uma base sólida para atuar profissionalmente na área tech.
+## ___🌱 Atualmente estudando___
+#### HTML5
+#### CSS3
+#### JavaScript
+#### Git e GitHub
+#### Lógica de Programação
+#### Desenvolvimento Front-End
 
-Here are some ideas to get you started:
+## ___🎯 Objetivos___
+#### Conquistar minha primeira oportunidade na área de tecnologia
+#### Evoluir como Desenvolvedor Full Stack
+#### Construir projetos práticos e portfólio profissional
+#### Crescer na área de Engenharia de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ___🛠️ Tecnologias e Ferramentas___
+#### Git & GitHub
+#### HTML
+#### CSS
+#### JavaScript
+#### VS Code
+
+##  ___📫 Contato___
+#### 📧 hebert.nueva@gmail.com
+#### 📱 WhatsApp: (35) 99963-2006
