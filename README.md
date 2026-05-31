@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # **Olá, eu sou Hebert Nascimento 👋**
 
